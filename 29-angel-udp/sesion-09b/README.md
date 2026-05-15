@@ -30,3 +30,26 @@ Y una Com (común) para decidir a dónde va y se llama single porque en la carca
 
 El que usamos es el pushbbutton que en el esqumatico tiene 2 patas porque están duplicadas (mecanicamente hay 4 pero electricamente hay 2 creo que esto eta para mejorar la estbilidad) Huella SW_PUSH_6mm
 
+### Interruptores
+
+Hay de 2 patas y tambien pushbbutton de 2 patas en el esquematico así que ninguno me dice si es switch o no
+
+SPDT: SW_SPDT (lo vamos a usar generalmente para prender y apagar)
+
+Tal como editamos los simbolos, podemos editar la huella manualmente
+
+Hay componentes de placa y componentes de panel
+
+---
+
+**los de panel** son los que van en las carcasas
+
+Se puede conecar por medio de palaras que evita un cableado directo sino que sería conceptual
+
+Ala izquierda hay opciones para sacar la visualizacción de Tierra o GND
+
+Todo EL GND deve estar completa y no generar "islas aisladas" que no tengan toda la conexión con ground porque puede no funcionar el circuito
+
+Con la letra F se pasan los componentes para a tras y con la letra R se acomoda en el mismo punto en el que estaba
+
+ En propiedades de las huellas se puede cambiar el modelo 3D para ajustar la posición
