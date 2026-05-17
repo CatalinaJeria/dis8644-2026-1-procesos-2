@@ -90,5 +90,13 @@ Terminando de designar huellas a símbolos, debemos pasar a PCB NEW
 
 -----
 
-HACIA UNA FILOSOFIÍA DE LA FOTOGRAFÍA—VILÉM FLUSSER
+Soy de re-leer los textos y no había tenido la oportunidad de hacerlo el día anterior, así que lo hice en camino a la universidad. 
+
+HACIA UNA FILOSOFÍA DE LA FOTOGRAFÍA—VILÉM FLUSSER
+
+Siempre antes de comenzar a leer un texto nuevo, se debe saber un poco de quien es el autor, ya que gracias a eso podemos saber cómo ve y aprecia el mundo:
+
+Vilém Flusser fue un escritor, filósofo, pensador y periodista checo-brasileño con familia judía, pero viviendo casi todo el tiempo en Brasil. Él ha adquirido mucho significado para el estudio sobre el vínculo entre la cultura y las tecnologías, particularmente las tecnologías de la comunicación. De él recuerdo haber leído la filosofía del diseño en primer año junto a  Juaquin Zerene, me gustaría recordar más sobre ese texto. 
+
+¨Hacia una filosofía de la fotografía” es una de sus grandes y reconocidas obras según los lectores que habla sobre la exploración innovadora de la intrincada relación entre imágenes, tecnología y existencia humana.
 
