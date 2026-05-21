@@ -27,6 +27,22 @@ Cuando un archivo ya está creado y guardado, se abre desde la extensión:
 ![kicadpreee](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img1.png)
 
 ## 2.	Atajos de teclado.
+
+|Tecla (atajo)|Lo que hace|
+|-------------|-----------|
+|**`A`**|Abrir tabla para agregar componentes |
+| *Puedes buscar los símbolos que solemos usar +, así:* | `R = Resistors`  |
+|                     |`C = Unpolarized capacitor`|  
+|                     |`Gnd = Ground (tierra)`|  
+|                     |`Vcc = Voltaje corriente continuo (Cielo)`|  
+|                     |`NE555P = Chip 555` | 
+|                     |`R_pot = Potenciómetro`|  
+|                     |`Led = Led`|  
+|                     |`Battery_cell = Batería`|   
+|                     |`Speaker = parlante`  
+|**`ESC (escape)`**| Para deseleccionar todo, y tener el cursor libre para seleccionar u hacer otras cosas.|
+
+
 ## 3.	Como buscar componentes (los que más solemos usar)
 ## 4.	La pcb (nuestra placa real)
 ## 5.	Encargo para la siguiente clase.
