@@ -88,6 +88,22 @@ También existe un espaciado mínimo entre pistas, para que no se toquen las una
 ![img9](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img9.png)
 
 **Luego, cuando le hundimos nos aparecen todos los lugares donde debería ir conectado ciertas pistas:**
-![img10]()
+![img10](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img10.png)
+
+**Una vez ya conectados todos los positivos, vamos a ver una manera de como conectar los negativos:**
+![img11](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img11.png)
+
+**Vamos a esta herramienta:**
+![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img12.png)
+
+**Hacemos click en cualquier parte de la pantalla y se nos va a desplegar este menú, y allí seleccionamos ambas caras de las placas: Front y Back, y luego en red, seleccionamos: GND:**
+![img13](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img13.png)
+
+**Luego le hundimos aceptar, y hacemos el contorno alrededor de la placa, y hay que ser muy cuidadoses en cerrar bien el contorno; y se vería algo así:**
+![img14](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img14.png)
+
+**Luego hundimos la letra `B`, se rellena todo:**
+![img15](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img15.png)
+
 
 ## 4.	Encargo para la siguiente clase.
