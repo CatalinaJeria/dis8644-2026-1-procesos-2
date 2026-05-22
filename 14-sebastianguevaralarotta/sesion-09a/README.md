@@ -38,6 +38,35 @@ Finalmente, este primer acercamiento a KiCad permitió comprender de manera más
 
 <img width="1052" height="723" alt="esquematicoyerrores" src="https://github.com/user-attachments/assets/38b81455-ea6c-43e1-893a-b7b63561e343" /> 
 
+# Bitácora — Corrección de errores y comprensión del esquemático en KiCad
+
+Después de revisar nuevamente las clases y analizar varias veces el funcionamiento del circuito, logré comprender mejor cómo se conectan los componentes dentro del esquemático y cómo estos se relacionan posteriormente con la PCB. Esto ayudó bastante a corregir distintos errores que aparecían constantemente durante el desarrollo del proyecto.
+
+En esta etapa trabajé principalmente con un circuito basado en un temporizador 555 conectado a distintos switches, resistencias, capacitores, una batería y un speaker. A medida que avanzaba, aparecieron varios errores tanto visuales como eléctricos dentro de KiCad.
+
+Uno de los errores más frecuentes fue la mala conexión entre componentes. En varias ocasiones los cables parecían conectados visualmente, pero realmente no estaban unidos eléctricamente, lo que provocaba errores ERC dentro del programa. También ocurrió que algunos componentes estaban conectados a tierra o alimentación de manera incorrecta, especialmente en las líneas de VCC y GND.
+
+Otro problema importante fue la utilización incorrecta de los `POWER_FLAG`. Al inicio no entendía bien para qué servían, por lo que KiCad detectaba errores indicando que ciertas líneas de alimentación no tenían una fuente de energía válida. Después de investigar y revisar las clases nuevamente, comprendí que los `POWER_FLAG` ayudan al programa a reconocer que una línea realmente está energizada y así eliminar advertencias falsas relacionadas con alimentación.
+
+También aparecieron errores relacionados con componentes sin huella asignada o footprints incompatibles. Algunos switches y el speaker no tenían footprints correctos, por lo que no aparecían correctamente en la PCB o en el render 3D. Esto obligó a buscar nuevas librerías y asignar manualmente footprints más adecuados para cada componente.
+
+En el caso del speaker, fue necesario revisar el tipo de conexión y verificar la polaridad junto al capacitor electrolítico conectado a la salida del 555. Al principio algunos componentes estaban invertidos o mal orientados, lo que generaba errores de conexión y visualización.
+
+<img width="839" height="476" alt="errores01" src="https://github.com/user-attachments/assets/a10db200-3e57-40a1-a77f-13889afd4ef9" />
+
+<img width="698" height="488" alt="pcb01" src="https://github.com/user-attachments/assets/5e41a205-b2f0-4730-a008-6e2817ea1aa2" />
+
+En esta etapa del proyecto el trabajo se enfocó principalmente en mejorar la distribución de los componentes dentro de la PCB para optimizar el espacio y facilitar el ruteo de las conexiones. A medida que avanzaba el diseño, fue necesario reorganizar varias veces resistencias, capacitores y el circuito integrado para evitar cruces innecesarios y mantener un orden más claro dentro de la placa.
+
+También se comprendió mejor cómo la posición física de cada componente afecta tanto la fabricación como el uso real del circuito. Elementos como el potenciómetro necesitaron una ubicación más estratégica debido a su tamaño y forma de manipulación.
+
+Durante este proceso aparecieron algunos errores DRC relacionados con distancias mínimas y cercanía entre pistas, lo que obligó a realizar pequeños ajustes en la distribución general. Gracias a esto fue posible entender de mejor manera la importancia de equilibrar funcionalidad, espacio y organización dentro del diseño PCB.
+
+Finalmente, esta etapa ayudó a desarrollar una comprensión más práctica sobre cómo planificar una placa electrónica considerando no solo el circuito, sino también sus limitaciones físicas y de fabricación.
+
+```
+```
+
 
 El capítulo 1 habla sobre la importancia que tienen las imágenes en la vida humana y cómo estas han sido una herramienta para entender el mundo desde hace muchísimo tiempo. El autor explica que las imágenes no son solamente algo decorativo o artístico, sino que también ayudan a las personas a interpretar la realidad, recordar momentos y transmitir ideas o emociones. Antes incluso de la escritura, las personas ya utilizaban dibujos y símbolos para comunicarse y darle sentido a lo que veían a su alrededor. Por eso, las imágenes siempre han estado muy ligadas a la forma en que pensamos y entendemos las cosas.
 
