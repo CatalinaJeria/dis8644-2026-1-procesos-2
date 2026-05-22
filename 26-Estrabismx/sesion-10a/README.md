@@ -27,3 +27,10 @@ Como grupo coordinamos de que manera trabajar hasta la siguiente clase, además 
   > O eso entendí yo, profundizaré en la semana sobre esto
 
 - Además se nos confirmo que como grupo solo cumplimos la misión de realizar este _divisor de corriente_ par que el VCO logre modificar sus sónidos, por lo mismo, decidimos buscar la manera de utilizar los transistores para incluir Leds a modo de experiencía de usuario
+
+<https://www.youtube.com/watch?v=qTt-daIfq_Q>
+
+<https://www.youtube.com/watch?v=ZSGaglkNxX8>
+
+>Secuenciador en base a transistores
+
