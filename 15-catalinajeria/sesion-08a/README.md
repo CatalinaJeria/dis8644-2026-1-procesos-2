@@ -17,3 +17,7 @@
 ![Huella 1](./imagenes/huella01.jpeg)
 
 ![Huella 2](./imagenes/huella02.jpeg)
+
+![Huella 3](./imagenes/huella03.jpeg)
+
+![Huella 4](./imagenes/huella04.jpeg)
