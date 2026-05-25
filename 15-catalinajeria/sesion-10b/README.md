@@ -12,3 +12,5 @@ Aqui mi compañera de equipo estuvo reproduciendo el esquematico en la protoboar
 
 Ya que teniamos 1 casi listo aun hacia falta la segunda propuesta, asi que preguntamos cual podiamos hacer y se nos recomendo por parte del profesor misa buscar el chip 4068 UB, de lo contrario buscar el LN 358.
 ![trabajo_en_clases](./imagenes/componentes04.jpg)
+
+Ire a san diego a buscar los componentes que faltan👟
