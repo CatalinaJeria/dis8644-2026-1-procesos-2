@@ -1,9 +1,13 @@
-# 🌸 sesion-08a
-!Bienvenidos a [![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img src="15-catalinajeria/sesion-08a/imagenes/banana.gif" width="180">
+</p>
 
-> **Bitácora de clase — Diseño de circuitos y placas PCB**  
-> En esta sesión comenzamos a trabajar con KiCad para pasar de un circuito esquemático a una placa física.
+<h1 align="center">🌸 Clase 08a — Primer acercamiento a KiCad 🌸</h1>
 
+<p align="center">
+  <b>Bitácora de clase — Diseño de circuitos y placas PCB</b><br>
+  En esta sesión comenzamos a trabajar con KiCad para pasar de un circuito esquemático a una placa física.
+</p>
 ---
 
 ## ✨ Resumen de la clase
