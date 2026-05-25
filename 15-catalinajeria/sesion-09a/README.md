@@ -13,8 +13,7 @@
 
 
 
-
-clase09a_imagen01.png
+![Huella 2](./imagenes/clase09a_imagen01.png)
 
 ## Hacia una filosofía de la fotografía
 ### Capítulo 1: La imagen
