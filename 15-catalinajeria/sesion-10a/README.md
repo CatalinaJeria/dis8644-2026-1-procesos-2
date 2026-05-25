@@ -336,7 +336,7 @@ En resumen, Flusser plantea que las fotografías deben ser descifradas. Si las a
 
 ---
 
-## Reflexión personal sobre los capítulos 4 y 5
+## Reflexión personal 
 
 Estos capítulos me hicieron pensar que una cámara no es solo una herramienta para guardar recuerdos. Según Flusser, la cámara también guía, limita y condiciona la forma en que vemos el mundo.
 
@@ -354,32 +354,4 @@ También me quedó dando vueltas que una fotografía no copia directamente la re
 
 En conclusión, me quedo con la idea de que los aparatos no son neutros. Nos ayudan a crear, medir, registrar y escuchar, pero también condicionan la forma en que imaginamos el mundo. Por eso, usar un aparato de forma creativa implica entender sus límites y tratar de empujarlo un poco más allá de lo que normalmente está programado para hacer.
 
----
 
-## Ideas importantes que me quedaron
-
-- Las imágenes técnicas no muestran el mundo de forma neutra.
-- Un aparato puede entenderse como una caja negra.
-- La cámara, el escáner y otros aparatos producen versiones del mundo.
-- Medir no significa necesariamente llegar a una verdad absoluta.
-- Los sistemas que parecen estables también pueden ser inestables.
-- Una nube de puntos reconstruye el mundo de manera fragmentada.
-- El error técnico también puede abrir posibilidades artísticas.
-- El árbol puede entenderse como una red viva.
-- Todo depende de la escala desde donde se mire.
-- El voltaje puede usarse para controlar frecuencia.
-- El 4046 funciona como un VCO.
-- El 4040 puede dividir señales.
-- El multiplexor permite seleccionar entre distintas señales.
-
----
-
-## Conclusión
-
-Esta clase mezcló teoría, arte y electrónica. Por un lado, seguimos trabajando con Flusser y su idea de que las imágenes técnicas son producidas por aparatos que median nuestra relación con el mundo. Por otro lado, la charla mostró cómo una herramienta de medición, como un escáner 3D, puede transformarse en una herramienta artística.
-
-Me quedó claro que los aparatos no solo registran la realidad, sino que también la interpretan y la reconstruyen. Una cámara, un escáner o un chip no son herramientas totalmente neutras: cada uno tiene una forma propia de procesar lo que recibe.
-
-También fue interesante pensar que la medición puede fallar, deformar o abrir nuevas lecturas. Lo que parece exacto puede estar lleno de inestabilidad, y esa inestabilidad puede transformarse en una posibilidad creativa.
-
-Finalmente, el repaso de chips ayudó a conectar estas ideas con los proyectos prácticos. El control de voltaje, los osciladores y los contadores también funcionan como sistemas con entradas, procesos y salidas. En ese sentido, tanto una cámara como un escáner o un chip pueden entenderse como aparatos que producen nuevas formas de imaginar, escuchar y construir el mundo.
